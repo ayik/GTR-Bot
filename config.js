@@ -4,12 +4,12 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 import moment from "moment-timezone"
 
 async function loadConfig() {
-global.owner = [['+6285767373425', 'jhnspntx', true],['62895612153565'], ['6282268003229'], ['6283820073017'],['6283850230191'],["6283825536262"],['6285179855248']]
+global.owner = [['+6285691994709', 'ayik', true],['6285161714488'], ['6285649050488']]
  // ['6283820073017', '436506665652696', '6285240750713']
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
 global.mods = [] // Want some help? nothing
-global.prems = ['6285643029355', '19292452222', '+19294535720', '62838399233855'] // Premium user has unlimited limit
+global.prems = ['6285691994709', '6285161714488', '+6285649050488'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   marin: 'https://api.marinkitagawa.toys'
@@ -80,9 +80,9 @@ global.chara = "mOuKD3RdUXdqnaRRKjm8An-VwdRmJyD4KdCikYEwHEM"
 //===========> BAGIAN TEXT <==============//
 global.namaowner = 'JhnsPntx'
 global.me = 'Created By JhnsPntx'
-global.ownerbot = "6285767373425"
-global.nomorbot = '6289637133848'
-global.namebot = 'Kitagawa Marin'
+global.ownerbot = "6285691994709"
+global.nomorbot = '6285161714488'
+global.namebot = 'GTR Bot'
 global.wait = "_In progress, please wait..._"
 global.yt = "bit.ly/Papah-Chan"
 //WAJIB DIUBAH SESUAI SAMA DI OWNER-CREATEPANEL.JS
